@@ -266,7 +266,7 @@ namespace Lab9_10CharpT
             }
             catch (OverflowException ex)
             {
-                Console.WriteLine($" Exception: {ex.Message}");
+                Console.WriteLine($"Exception: {ex.Message}");
             }
 
             Console.WriteLine();
